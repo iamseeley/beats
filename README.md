@@ -1,3 +1,3 @@
-<3 beats
+## <3 beats
 
 Open source real-time heart rate analytics.
